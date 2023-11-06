@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Latifa Abdallarehan
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C# using ASP.NET
+- 🌱 I’m currently learning AI and Machine Learning
 - 📫 How to reach me Email: tiffahnick012@gmail.com
 
 <!---
